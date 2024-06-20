@@ -6,7 +6,7 @@ This project demonstrates how to use the Titan Embeddings Model from AWS Bedrock
 
 Before running this script, ensure you have the following:
 
-- Python 3.6 or higher
+- Python 3.10 or higher
 - AWS SDK for Python (`boto3`)
 - Streamlit
 - Langchain Community Libraries
